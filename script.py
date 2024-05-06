@@ -90,7 +90,7 @@ def main():
     beforenoon_webhook_url = os.getenv("BEFORE_WEBHOOK_URL")
     afternoon_webhook_url = os.getenv("AFTERNOON_WEBHOOK_URL")
     print(beforenoon_webhook_url,afternoon_webhook_url,os.getenv("GEMINI_API_KEY"))
-    print("script is runnnig!")
+    print("script is running!")
     if is_time_in_window("10:45"):
         message = get_generated_message()
         print(message)
