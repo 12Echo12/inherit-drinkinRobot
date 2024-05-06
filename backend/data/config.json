@@ -1,14 +1,14 @@
 {
-  "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=f8b44b78-4a2c-4053-a6ea-eecfbd80fcc5": {
+  "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=9dce6069-4249-4f0e-bdd0-0a7163195bf5": {
     "startTime": "09:30",
     "endTime": "12:00",
     "frequency": "1",
-    "webhookURL": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=f8b44b78-4a2c-4053-a6ea-eecfbd80fcc5"
+    "webhookURL": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=9dce6069-4249-4f0e-bdd0-0a7163195bf5"
   },
-  "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=dc2b66d3-c921-414d-addf-29a492d6a98f": {
+  "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=db7fce77-d3f6-4180-83f8-07cd6012520c": {
     "startTime": "13:00",
     "endTime": "18:30",
     "frequency": "3",
-    "webhookURL": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=dc2b66d3-c921-414d-addf-29a492d6a98f"
+    "webhookURL": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=db7fce77-d3f6-4180-83f8-07cd6012520c"
   }
 }
